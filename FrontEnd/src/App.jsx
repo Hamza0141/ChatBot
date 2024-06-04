@@ -40,7 +40,7 @@ const App = () => {
 
   return (
     <div className="container">
-      <h1>Chat with Hamza AI</h1>
+      <h1>Chat with ChatGPT</h1>
       <div className="chat-box">
         {messages.map((msg, index) => (
           <div
